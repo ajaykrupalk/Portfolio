@@ -23,15 +23,14 @@
                     </div>
                 </div>
                 <div class="relative flex flex-col bg-green-blue max-w-xs h-80 text-white p-3">
-                    <h4 class="text-md-lg font-bold">Progress Tracker</h4>
+                    <h4 class="text-md-lg font-bold">Application Form</h4>
                      <p class="text-sm">A web app which was built to store the day-to-day progress of a programming journey like questions, it's difficulty level, and other information.</p>
                     <br>
                     <a class="flex flex-row text-cream gap-2 flex-wrap font-medium">
-                        <span class="border-2 border-cream rounded p-1 text-xs">VueJS</span>
+                        <span class="border-2 border-cream rounded p-1 text-xs">HTML</span>
                         <span class="border-2 border-cream rounded p-1 text-xs">Tailwind CSS</span>
-                        <span class="border-2 border-cream rounded p-1 text-xs">Laravel</span>
-                        <span class="border-2 border-cream rounded p-1 text-xs">Git</span>
-                        <span class="border-2 border-cream rounded p-1 text-xs">GitHub</span>
+                        <span class="border-2 border-cream rounded p-1 text-xs">PHP</span>
+                        <span class="border-2 border-cream rounded p-1 text-xs">MySQL</span>
                         <span class="border-2 border-cream rounded p-1 text-xs">VSCode</span>
                     </a>
                     <!-- <div class="absolute bottom-5 left-5">
