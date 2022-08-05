@@ -22,9 +22,27 @@
                         </a>
                     </div>
                 </div>
+                
+                <div class="relative flex flex-col bg-green-blue max-w-xs h-80 text-white p-3">
+                    <h4 class="text-md-lg font-bold">Resume</h4>
+                     <p class="text-sm">My Resume built completely using TailwindCSS</p>
+                    <br>
+                    <a class="flex flex-row text-cream gap-2 flex-wrap font-medium">
+                        <span class="border-2 border-cream rounded p-1 text-xs">TailwindCSS</span>
+                        <span class="border-2 border-cream rounded p-1 text-xs">GitHub Pages</span>
+                        <span class="border-2 border-cream rounded p-1 text-xs">VSCode</span>
+                    </a>
+                    <div class="absolute bottom-5 left-5">
+                        <a href="https://ajaykrupalk.me/Resume/" class="border-2 text-sm text-center font-semibold inline-block rounded-full px-4 py-1.5 hover:bg-white hover:text-black" target="_blank">
+                            View Project
+                        </a>
+                    </div>
+                </div>
+                
+                
                 <div class="relative flex flex-col bg-green-blue max-w-xs h-80 text-white p-3">
                     <h4 class="text-md-lg font-bold">Application Form</h4>
-                     <p class="text-sm">A web app which was built to store the day-to-day progress of a programming journey like questions, it's difficulty level, and other information.</p>
+                     <p class="text-sm">A Full Stack Web App built to  register, login, take user inputs to an application form, and display and store the details.</p>
                     <br>
                     <a class="flex flex-row text-cream gap-2 flex-wrap font-medium">
                         <span class="border-2 border-cream rounded p-1 text-xs">HTML</span>
