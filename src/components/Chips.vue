@@ -3,8 +3,8 @@
         <div class="flex flex-col justify-center lg:flex-row gap-5">
             <a href="https://ajaykrupalk.me/Resume/" class="block lg:w-2/6" target="_blank">
                 <div class="flex flex-row items-baseline drop-shadow justify-between gap-3 text-sm bg-chip-blue p-5 hover:shadow-md">
-                    <h3>🖨️ View Resume</h3>
-                    <img src="../../src/assets/download.png" alt="document" class="inline h-3.5 ml-5">
+                    <h3>👁‍🗨 View Resume</h3>
+                    <img src="../../src/assets/maximize.png" alt="document" class="inline h-3.5">
                 </div>
             </a>
             <a href="https://github.com/ajaykrupalk/" class="block lg:w-2/6" target="_blank">
