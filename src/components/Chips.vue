@@ -1,9 +1,9 @@
 <template>
     <div class="container max-w-screen-2xl p-10 font-quick">
         <div class="flex flex-col justify-center lg:flex-row gap-5">
-            <a href="https://drive.google.com/file/d/1Hg-jBUDDvuGz7la6gI7-EaGDJC8GSneh/view?usp=sharing" class="block lg:w-2/6" target="_blank">
+            <a href="https://ajaykrupalk.me/Resume/" class="block lg:w-2/6" target="_blank">
                 <div class="flex flex-row items-baseline drop-shadow justify-between gap-3 text-sm bg-chip-blue p-5 hover:shadow-md">
-                    <h3>🖨️ Download Resume</h3>
+                    <h3>🖨️ View Resume</h3>
                     <img src="../../src/assets/download.png" alt="document" class="inline h-3.5 ml-5">
                 </div>
             </a>
