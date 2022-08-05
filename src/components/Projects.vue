@@ -28,7 +28,7 @@
                     <br>
                     <a class="flex flex-row text-cream gap-2 flex-wrap font-medium">
                         <span class="border-2 border-cream rounded p-1 text-xs">HTML</span>
-                        <span class="border-2 border-cream rounded p-1 text-xs">Tailwind CSS</span>
+                        <span class="border-2 border-cream rounded p-1 text-xs">TailwindCSS</span>
                         <span class="border-2 border-cream rounded p-1 text-xs">PHP</span>
                         <span class="border-2 border-cream rounded p-1 text-xs">MySQL</span>
                         <span class="border-2 border-cream rounded p-1 text-xs">VSCode</span>
