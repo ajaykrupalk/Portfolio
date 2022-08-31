@@ -32,7 +32,7 @@
                         <span class="border-2 border-cream rounded p-1 text-xs">Laravel</span>
                         <span class="border-2 border-cream rounded p-1 text-xs">TailwindCSS</span>
                         <span class="border-2 border-cream rounded p-1 text-xs">MySQL</span>
-                        <span class="border-2 border-cream rounded p-1 text-xs">OpenWeatherApp API</span>
+                        <span class="border-2 border-cream rounded p-1 text-xs">OpenWeatherMap API</span>
                         <span class="border-2 border-cream rounded p-1 text-xs">GeoPlugin API</span>
                         <span class="border-2 border-cream rounded p-1 text-xs">Skycon Glyphs</span>
                     </a>
