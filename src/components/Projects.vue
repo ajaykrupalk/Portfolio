@@ -37,7 +37,7 @@
                         <span class="border-2 border-cream rounded p-1 text-xs">Skycon Glyphs</span>
                     </a>
                     <div class="absolute bottom-5 left-5">
-                        <a href="https://ajaykrupalk.me/Resume/" class="border-2 text-sm text-center font-semibold inline-block rounded-full px-4 py-1.5 hover:bg-white hover:text-black" target="_blank">
+                        <a href="https://github.com/ajaykrupalk/Weather-App" class="border-2 text-sm text-center font-semibold inline-block rounded-full px-4 py-1.5 hover:bg-white hover:text-black" target="_blank">
                             View Project
                         </a>
                     </div>
