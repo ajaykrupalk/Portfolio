@@ -24,6 +24,26 @@
                 </div>
                 
                 <div class="relative flex flex-col bg-green-blue max-w-xs h-80 text-white p-3">
+                    <h4 class="text-md-lg font-bold">Weather Application</h4>
+                     <p class="text-sm">Full Stack App built to display the current weather, weather of next 5 days in general and in detail.</p>
+                    <br>
+                    <a class="flex flex-row text-cream gap-2 flex-wrap font-medium">
+                        <span class="border-2 border-cream rounded p-1 text-xs">VueJS</span>
+                        <span class="border-2 border-cream rounded p-1 text-xs">Laravel</span>
+                        <span class="border-2 border-cream rounded p-1 text-xs">TailwindCSS</span>
+                        <span class="border-2 border-cream rounded p-1 text-xs">MySQL</span>
+                        <span class="border-2 border-cream rounded p-1 text-xs">OpenWeatherApp API</span>
+                        <span class="border-2 border-cream rounded p-1 text-xs">GeoPlugin API</span>
+                        <span class="border-2 border-cream rounded p-1 text-xs">Skycon Glyphs</span>
+                    </a>
+                    <div class="absolute bottom-5 left-5">
+                        <a href="https://ajaykrupalk.me/Resume/" class="border-2 text-sm text-center font-semibold inline-block rounded-full px-4 py-1.5 hover:bg-white hover:text-black" target="_blank">
+                            View Project
+                        </a>
+                    </div>
+                </div>
+                
+                <div class="relative flex flex-col bg-green-blue max-w-xs h-80 text-white p-3">
                     <h4 class="text-md-lg font-bold">Resume</h4>
                      <p class="text-sm">My Resume built completely using TailwindCSS</p>
                     <br>
