@@ -14,7 +14,7 @@
             <div class="flex flex-col bg-dark-blue p-5 max-w-lg text-white h-80">
                 <h1 class="text-sm font-bold">FEATURED</h1>
                 <h1 class="text-md-lg font-bold">Tech Intern, IIM Bangalore</h1>
-                <p CLASS="text-sm font-semibold">JULY 2021 - PRESENT</p>
+                <p CLASS="text-sm font-semibold">JULY 2021 - AUG 2022 [1 year 1 month]</p>
                 <p class="w-5/6 text-sm">Working on cloud computing on AWS, Website UI and Development using Figma and Wordpress, Data Analytics using Google Analytics and AWS QuickSight, and current trending technologies related to  MOOCs - Massive Open Online Courses.</p>
             </div>
         </div>
